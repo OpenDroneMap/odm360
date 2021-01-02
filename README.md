@@ -4,6 +4,8 @@
 
 Primary repo now at https://github.com/localdevices/odm360
 
+------------------------------------------------------------------
+
 This repository contains code for the EECS 398 group working on the odm360 project with the Cleveland Metroparks, and all the great extensions and reinventions of that code for all the other things we want to do. The idea is to build a 360 camera from individual cameras for the purposes of high quality 3D reconstructions in challenging environments where drones don't work or don't work well.
 
 The original plan used a Sony α6000 using [gphoto2](http://gphoto.org/), but the project has been expanded to use [that fancy new Raspberry Pi camera](https://www.raspberrypi.org/products/raspberry-pi-high-quality-camera/).
